@@ -40,9 +40,17 @@ Viruses vary in shape from the simple helical and icosahedral to more complex st
 ![snip2](Images/snip2.png)
 
 
+<hr>
+
+## How Viruses Spread?
+
+<hr>
 
 
-### Now after we have defined what is a Virus and its structure, we can take a closer look at Coronavirus (COVID-19)
+Viruses spread in many ways. Just as many viruses are very specific as to which host species or tissue they attack, each species of virus relies on a particular method for propagation. Plant viruses are often spread from plant to plant by insects and other organisms, known as vectors. Some viruses of humans and other animals are spread by exposure to infected bodily fluids. Viruses such as COVID-19 can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick.
+
+
+## Now after we have defined what is a Virus and its structure, we can take a closer look at Coronavirus (COVID-19)
 
 ## What is a coronavirus?
 
