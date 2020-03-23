@@ -10,7 +10,26 @@
 <hr>
 
 
-## Before we define Coronavirus (COVID-19) let us define what is a Virus, its structure and how it spreads
+## To better understand Coronavirus (COVID-19), we would need to know what is a virus, its structure and how it spreads
+
+<hr>
+
+###What is a VIRUS?
+
+<hr>
+
+A virus is a biological agent that reproduces inside the cells of living hosts. When infected by a virus, a host cell is forced to quickly produce thousands of identical copies of the original virus. Unlike most living things, viruses do not have cells that divide; new viruses are assembled in the infected host cell. But unlike still simpler infectious agents like prions, viruses contain genes, which gives them the ability to mutate and evolve. Over 4,800 species of viruses have been discovered.
+
+
+<hr>
+
+### What is the structure of a VIRUS?
+
+<hr>
+
+
+A virus consists of two or three parts: genes, made from either DNA or RNA, long molecules that carry genetic information; a protein coat that protects the genes; and in some viruses, an envelope of fat that surrounds the protein coat (which makes them vulnerable to soap) and is used, in combination with specific receptors, to enter a new host cell. Viruses vary in shape from the simple helical and icosahedral to more complex structures. Viruses range in size from 20 to 300 nanometres; it would take 33,000 to 500,000 of them, side by side, to stretch to 1 centimetre (0.39 in).
+
 
 
 ## What is a coronavirus
