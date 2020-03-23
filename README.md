@@ -1,6 +1,6 @@
 <hr>
 
-# COVID-19 Analysis
+# Coronavirus Disease (COVID-19)
 
 <hr>
 
