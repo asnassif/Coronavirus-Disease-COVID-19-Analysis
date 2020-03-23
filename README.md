@@ -33,7 +33,8 @@ A virus is a biological agent that reproduces inside the cells of living hosts. 
 <hr>
 
 
-A virus consists of two or three parts: genes, made from either DNA or RNA, long molecules that carry genetic information; a protein coat that protects the genes; and in some viruses, an envelope of fat that surrounds the protein coat (which makes them vulnerable to soap) and is used, in combination with specific receptors, to enter a new host cell. Viruses vary in shape from the simple helical and icosahedral to more complex structures. Viruses range in size from 20 to 300 nanometres; it would take 33,000 to 500,000 of them, side by side, to stretch to 1 centimetre (0.39 in).
+A virus consists of two or three parts: genes, made from either DNA or RNA, long molecules that carry genetic information; a protein coat that protects the genes; and in some viruses, an envelope of fat that surrounds the protein coat (which makes them vulnerable to soap) and is used, in combination with specific receptors, to enter a new host cell. 
+Viruses vary in shape from the simple helical and icosahedral to more complex structures. Viruses range in size from 20 to 300 nanometres; it would take 33,000 to 500,000 of them, side by side, to stretch to 1 centimetre (0.39 in).
 
 
 
