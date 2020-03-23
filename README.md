@@ -54,7 +54,7 @@ Coronaviruses are a large family of viruses which may cause illness in animals o
 
 <hr>
 
-## What is COVID-19
+## What is COVID-19.
 
 <hr>
 
