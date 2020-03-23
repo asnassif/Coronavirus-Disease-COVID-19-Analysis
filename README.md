@@ -7,12 +7,12 @@
 
 ![alt text](https://www.medicaldevice-network.com/wp-content/uploads/sites/11/2020/02/Corona.jpg)
 
-<hr>
+
 
 
 ## To better understand Coronavirus (COVID-19), we would need to know what is a virus, its structure and how it spreads
 
-<hr>
+
 
 ### What is a VIRUS?
 
