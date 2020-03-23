@@ -55,6 +55,11 @@ Major changes can cause pandemics as was the case in 2009 when swine influenza s
 ## Ater we have defined what is a Virus, its structure and how it spreads, now we can define Coronavirus (COVID-19), its structure and how it spreads as a kind of virus
 
 
+
+![alt text](https://365.military.com/sites/default/files/2020-03/Coronavirus.jpg)
+
+
+
 ## What is a Coronavirus?
 
 <hr>
