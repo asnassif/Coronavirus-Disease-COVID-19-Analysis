@@ -14,6 +14,8 @@
 
 
 
+<hr>
+
 ### What is a VIRUS?
 
 <hr>
@@ -23,7 +25,7 @@ A virus is a biological agent that reproduces inside the cells of living hosts. 
 
 <hr>
 
-### What is the structure of a VIRUS?
+### VIRUS's structure?
 
 <hr>
 
