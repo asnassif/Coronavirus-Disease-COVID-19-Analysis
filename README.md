@@ -37,6 +37,11 @@ A virus consists of two or three parts: genes, made from either DNA or RNA, long
 Viruses vary in shape from the simple helical and icosahedral to more complex structures. Viruses range in size from 20 to 300 nanometres; it would take 33,000 to 500,000 of them, side by side, to stretch to 1 centimetre (0.39 in).
 
 
+[snip8](Images/virus_Structure.png)
+
+
+
+
 ### Now after we have defined what is a Virus and its structure, we can take a closer look at Coronavirus (COVID-19)
 
 ## What is a coronavirus?
