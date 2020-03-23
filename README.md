@@ -47,7 +47,9 @@ Viruses vary in shape from the simple helical and icosahedral to more complex st
 <hr>
 
 
-Viruses spread in many different ways. Just as many viruses are very specific as to which host species or tissue they attack, each species of virus relies on a particular method for propagation. Plant viruses are often spread from plant to plant by insects and other organisms, known as vectors. Some viruses of humans and other animals are spread by exposure to infected bodily fluids. Viruses such as COVID-19 can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick.
+Viruses spread in many different ways. Just as many viruses are very specific as to which host species or tissue they attack, each species of virus relies on a particular method for propagation. Plant viruses are often spread from plant to plant by insects and other organisms, known as vectors. Some viruses of humans and other animals are spread by exposure to infected bodily fluids.
+Viruses, particularly those that have RNA, can mutate rapidly and give rise to new types of viruses against which their hosts have little protection. Influenza virus, for example, changes often, which is why a new vaccine is needed each year.
+Major changes can cause pandemics as was the case in 2009 when swine influenza spread to most countries. Often these mutations take place when the virus has infected other animals such as bats in the case of coronavirus, and pigs and birds in influenza, before spreading to humans
 
 
 ## Now after we have defined what is a Virus and its structure, we can take a closer look at Coronavirus (COVID-19)
@@ -67,3 +69,13 @@ Coronaviruses are a large family of viruses which may cause illness in animals o
 <hr>
 
 COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
+
+
+<hr>
+
+## How does COVID-19 spread?
+
+<hr>
+
+
+People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick.
