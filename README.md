@@ -10,7 +10,7 @@
 <hr>
 
 
-# # Before we define Coronavirus (COVID-19) let us define what is a Virus, its structure and how it spreads
+## Before we define Coronavirus (COVID-19) let us define what is a Virus, its structure and how it spreads
 
 
 ## What is a coronavirus
