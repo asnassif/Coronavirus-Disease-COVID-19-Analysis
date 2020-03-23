@@ -10,7 +10,7 @@
 
 
 
-## To better understand what is Coronavirus (COVID-19), why is it hard to combat, why is it spreading exponentially we would need to know what is a Virus, its structure and how it spreads
+## To better understand what is Coronavirus (COVID-19), why is it hard to combat, why is it spreading exponentially, we would need to know what is a Virus, its structure and how it spreads
 
 
 
