@@ -52,13 +52,14 @@ Viruses, particularly those that have RNA, can mutate rapidly and give rise to n
 Major changes can cause pandemics as was the case in 2009 when swine influenza spread to most countries. Often these mutations take place when the virus has infected other animals such as bats in the case of coronavirus, and pigs and birds in influenza, before spreading to humans
 
 
-## Now after we have defined what is a Virus and its structure, we can take a closer look at Coronavirus (COVID-19)
+## Ater we have defined what is a Virus, its structure and how it spreads, now we can define Coronavirus (COVID-19), its structure and how it spreads as a kind of virus
 
-## What is a coronavirus?
+
+## What is a Coronavirus?
 
 <hr>
 
-Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19.
+Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes Coronavirus disease COVID-19.
 
 
 
