@@ -28,7 +28,7 @@ A virus is a biological agent that reproduces inside the cells of living hosts. 
 
 <hr>
 
-## VIRUS's structure
+### VIRUS's structure
 
 <hr>
 
